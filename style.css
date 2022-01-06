@@ -64,3 +64,8 @@ body{
     background-color: royalblue;
     color: white;
 }
+
+footer{
+    text-align: center;
+    margin: 20px;
+}
